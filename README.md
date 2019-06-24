@@ -1,2 +1,1 @@
-# ASM-image-processing
-An assembly application that do some Image processing operations, Brightness, Add and greyscale.
+This Application is developed with visual studio and in purpose of learning and experimenting how fast is assembly in Image proccessing
