@@ -1,0 +1,6 @@
+EXPORTS
+Sum @1
+SumArr @2
+ToUpper @3
+Brightness @4
+GrayScale @5

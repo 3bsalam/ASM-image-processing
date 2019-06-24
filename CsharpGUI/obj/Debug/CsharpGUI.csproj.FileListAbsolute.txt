@@ -1,0 +1,25 @@
+c:\users\ibrahim amer\documents\visual studio 2015\Projects\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.exe.config
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.exe
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.pdb
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.Properties.Resources.resources
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.csproj.GenerateResource.Cache
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.exe
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.pdb
+E:\kolya\3_2\assembly\project\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.exe.config
+E:\kolya\3_2\assembly\project\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.exe
+E:\kolya\3_2\assembly\project\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.pdb
+E:\kolya\3_2\assembly\project\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.Form1.resources
+E:\kolya\3_2\assembly\project\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.Properties.Resources.resources
+E:\kolya\3_2\assembly\project\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.csproj.GenerateResource.Cache
+E:\kolya\3_2\assembly\project\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.exe
+E:\kolya\3_2\assembly\project\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.pdb
+E:\kolya\3_2\assembly\project\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.csprojResolveAssemblyReference.cache
+E:\kolya\3_2\assembly\project\project sh3'al\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.exe.config
+E:\kolya\3_2\assembly\project\project sh3'al\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.exe
+E:\kolya\3_2\assembly\project\project sh3'al\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.pdb
+E:\kolya\3_2\assembly\project\project sh3'al\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.exe
+E:\kolya\3_2\assembly\project\project sh3'al\ASM.ImageProcessingPackage\CsharpGUI\bin\Debug\CsharpGUI.pdb
+E:\kolya\3_2\assembly\project\project sh3'al\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.csprojResolveAssemblyReference.cache
+E:\kolya\3_2\assembly\project\project sh3'al\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.Form1.resources
+E:\kolya\3_2\assembly\project\project sh3'al\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.Properties.Resources.resources
+E:\kolya\3_2\assembly\project\project sh3'al\ASM.ImageProcessingPackage\CsharpGUI\obj\Debug\CsharpGUI.csproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+﻿  Assembling main.asm...
+main.asm(134): warning A6004: procedure argument or local not referenced : hInstance
+main.asm(134): warning A6004: procedure argument or local not referenced : fdwReason
+main.asm(134): warning A6004: procedure argument or local not referenced : lpReserved
+     Creating library E:\kolya\3_2\assembly\project\project sh3'al\ASM.ImageProcessingPackage\DLLSampleTest\Debug\Project.lib and object E:\kolya\3_2\assembly\project\project sh3'al\ASM.ImageProcessingPackage\DLLSampleTest\Debug\Project.exp
+  Project.vcxproj -> E:\kolya\3_2\assembly\project\project sh3'al\ASM.ImageProcessingPackage\DLLSampleTest\Debug\Project.dll
+  Project.vcxproj -> E:\kolya\3_2\assembly\project\project sh3'al\ASM.ImageProcessingPackage\DLLSampleTest\Debug\Project.pdb (Full PDB)
+  E:\kolya\3_2\assembly\project\project sh3'al\ASM.ImageProcessingPackage\DLLSampleTest\Debug\Project.dll
+  1 File(s) copied
+  E:\kolya\3_2\assembly\project\project sh3'al\ASM.ImageProcessingPackage\DLLSampleTest\Debug\Project.dll
+  1 File(s) copied

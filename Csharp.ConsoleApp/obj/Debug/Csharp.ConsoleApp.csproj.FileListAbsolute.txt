@@ -1,0 +1,11 @@
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\Csharp.ConsoleApp\bin\Debug\Csharp.ConsoleApp.exe.config
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\Csharp.ConsoleApp\bin\Debug\Csharp.ConsoleApp.exe
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\Csharp.ConsoleApp\bin\Debug\Csharp.ConsoleApp.pdb
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\Csharp.ConsoleApp\obj\Debug\Csharp.ConsoleApp.exe
+C:\Users\Ibrahim Amer\Documents\Visual Studio 2015\Projects\ASM.ImageProcessingPackage\Csharp.ConsoleApp\obj\Debug\Csharp.ConsoleApp.pdb
+E:\kolya\3_2\assembly\project\ASM.ImageProcessingPackage\Csharp.ConsoleApp\bin\Debug\Csharp.ConsoleApp.exe.config
+E:\kolya\3_2\assembly\project\ASM.ImageProcessingPackage\Csharp.ConsoleApp\obj\Debug\Csharp.ConsoleApp.exe
+E:\kolya\3_2\assembly\project\ASM.ImageProcessingPackage\Csharp.ConsoleApp\obj\Debug\Csharp.ConsoleApp.pdb
+E:\kolya\3_2\assembly\project\ASM.ImageProcessingPackage\Csharp.ConsoleApp\bin\Debug\Csharp.ConsoleApp.exe
+E:\kolya\3_2\assembly\project\ASM.ImageProcessingPackage\Csharp.ConsoleApp\bin\Debug\Csharp.ConsoleApp.pdb
+E:\kolya\3_2\assembly\project\ASM.ImageProcessingPackage\Csharp.ConsoleApp\obj\Debug\Csharp.ConsoleApp.csprojResolveAssemblyReference.cache
